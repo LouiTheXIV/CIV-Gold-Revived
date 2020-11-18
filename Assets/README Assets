@@ -1,0 +1,4 @@
+The Assets folder for Civ Gold Revived. 
+Instructions on how to add a Civ:
+1. If you want to create a new civ you must make it Modular with the following path: Assets/Modules/Custom Civilizations/YOURCIV
+2. After that you have to add Audio. To add Audio you must copy the Audio parts and paste them in Assets/XML/Audio/AdioDefines.xml or Audio2D.xml etc...
